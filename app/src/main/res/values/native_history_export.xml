@@ -1,0 +1,4 @@
+<resources>
+    <string name="native_export_service_label">deepsleep 原版聊天迁移</string>
+    <string name="native_export_service_description">回到 deepsleep 点「开始迁移」后，服务会在原版查找导出菜单，用白点标出将点击的位置。暂停或结束后保留此开关，下次点「开始迁移」才会再次操作。你可以随时在系统设置中关闭。</string>
+</resources>
